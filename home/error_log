@@ -1,0 +1,26 @@
+[29-Jan-2023 10:52:39 UTC] PHP Warning:  include_once(../../core/includes/sitename.php): failed to open stream: No such file or directory in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 29
+[29-Jan-2023 10:52:39 UTC] PHP Warning:  include_once(): Failed opening '../../core/includes/sitename.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 29
+[29-Jan-2023 10:52:44 UTC] PHP Warning:  include_once(../../core/includes/sitename.php): failed to open stream: No such file or directory in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 29
+[29-Jan-2023 10:52:44 UTC] PHP Warning:  include_once(): Failed opening '../../core/includes/sitename.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 29
+[29-Jan-2023 11:52:44 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method Subscriber::getMonnifyCharges() in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php:203
+Stack trace:
+#0 /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php(180): getDataIfAny('homepage')
+#1 /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php(170): createView('homepage')
+#2 /home/trinitya/script.trinityabode.com/mobile/home/index.php(1): require_once('/home/trinitya/...')
+#3 {main}
+  thrown in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 203
+[29-Jan-2023 10:52:49 UTC] PHP Warning:  include_once(../../core/includes/sitename.php): failed to open stream: No such file or directory in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 29
+[29-Jan-2023 10:52:49 UTC] PHP Warning:  include_once(): Failed opening '../../core/includes/sitename.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 29
+[29-Jan-2023 10:52:54 UTC] PHP Warning:  include_once(../../core/includes/sitename.php): failed to open stream: No such file or directory in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 29
+[29-Jan-2023 10:52:54 UTC] PHP Warning:  include_once(): Failed opening '../../core/includes/sitename.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 29
+[29-Jan-2023 11:52:54 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method Subscriber::getMonnifyCharges() in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php:203
+Stack trace:
+#0 /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php(180): getDataIfAny('homepage')
+#1 /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php(170): createView('homepage')
+#2 /home/trinitya/script.trinityabode.com/mobile/home/index.php(1): require_once('/home/trinitya/...')
+#3 {main}
+  thrown in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 203
+[29-Jan-2023 10:52:57 UTC] PHP Warning:  include_once(../../core/includes/sitename.php): failed to open stream: No such file or directory in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 29
+[29-Jan-2023 10:52:57 UTC] PHP Warning:  include_once(): Failed opening '../../core/includes/sitename.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 29
+[29-Jan-2023 10:52:59 UTC] PHP Warning:  include_once(../../core/includes/sitename.php): failed to open stream: No such file or directory in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 29
+[29-Jan-2023 10:52:59 UTC] PHP Warning:  include_once(): Failed opening '../../core/includes/sitename.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 29

@@ -1,0 +1,12 @@
+[29-Jan-2023 11:24:08 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/trinitya/script.trinityabode.com/core/Models/Model.php:29
+Stack trace:
+#0 /home/trinitya/script.trinityabode.com/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/trinitya/script.trinityabode.com/core/Models/Model.php(23): Model->connectDb()
+#2 /home/trinitya/script.trinityabode.com/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/trinitya/script.trinityabode.com/mobile/login/index.php(24): require_once('/home/trinitya/...')
+#5 {main}
+  thrown in /home/trinitya/script.trinityabode.com/core/Models/Model.php on line 29
+[29-Jan-2023 10:48:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 400
+[29-Jan-2023 10:48:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 400
+[29-Jan-2023 10:48:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trinitya/script.trinityabode.com/mobile/home/includes/route.php on line 400
